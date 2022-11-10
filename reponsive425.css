@@ -1,0 +1,347 @@
+@media all and (max-width:425px){
+    body{
+      max-width: 425px;
+    }
+    .slider {
+        width: 111%;
+        margin-right: 5px;
+        height: 206px;
+    }
+    .star {
+        margin-top: -31px;
+    }
+    .test {
+        width: 173%;
+        margin-left: 101px;
+    }
+  .test .active{
+      width: 120%;
+  } 
+  .test {
+    width: 67%;
+    padding: 11px 15px;
+    font-size: 18px;
+}
+.test .active{
+    height: 79px;
+    font-size: 18px;
+}
+    .explore{
+      width: 163%;
+    }
+    .explore h1 {
+        margin-top: -1pc;
+        margin-left: 24px;
+        font-size: 21px;
+    }
+    .explore p {
+        font-size: 14px;
+        margin-left: 24px;
+    }
+    .doc {
+        margin-left: 85px;
+        width: 159%;
+        margin-top: 47px;
+    }
+.doc img {
+    height: 13pc;
+    width: 43%;
+}
+.overlay {
+    width: 40%;
+}
+.doc:hover .overlay {
+    bottom: 0;
+    height: 100%;
+  }
+.text {
+    font-size: 14px;
+    padding: 8px;
+}
+
+.doc:hover .overlay {
+    bottom: 0;
+    height: 100%;
+  }
+.doc h2, p{
+    width: 100%;
+}
+.doc h2 {
+    font-size: 18px;
+    padding: 15px;
+    margin-left: -53px;
+}
+.doc p {
+    font-size: 17px;
+    margin-left: 69px;
+    margin-top: -29px;
+}
+.university{
+    margin-left: 12px;
+}
+.university h1 {
+    margin-left: -32px;
+    font-size: 20px;
+    padding-top: 19px;
+}
+.university p {
+    margin-left: -28px;
+    line-height: 22px;
+    font-size: 17px;
+    text-align: left;
+}
+.the{
+    width: 234%;
+}
+.the h3 {
+    margin-left: 32px;
+    font-size: 27px;
+}
+.the p {
+    margin-left: 35px;
+    font-size: 16px;
+    padding-top: 2px;
+    width: 33%;
+}
+table {
+    flex-wrap: wrap;
+    margin-left: -37px;
+    width: 218%;
+    letter-spacing: 0px;
+}
+td {
+    flex-wrap: wrap;
+    font-size: 19px;
+    padding: 2px 20px;
+}
+.tab {
+    margin-left: 2pc;
+    margin-top: 0pc;
+    width: 88%;
+}
+.know h4 {
+    font-size: 20px;
+    margin-left: 11px;
+    padding-bottom: 7pc;
+    padding-right: 38px;
+}
+.know p {
+    color: #4E4C48;
+    font-size: 16px;
+    padding-left: 15px;
+    margin-top: -87px;
+    margin-left: 22px;
+    padding-right: 18px;
+}
+.video {
+    margin-left: 10px;
+}
+.video iframe {
+    width: 67%;
+    display: block;
+}
+.know1 h5 {
+    font-size: 18px;
+    margin-left: 14px;
+    padding-bottom: 57pc;
+}
+.video2 {
+    margin-top: -50pc;
+    margin-left: 10px;
+}
+.video2 iframe {
+    width: 67%;
+    display: block;
+}
+.pat img {
+    margin-top: -6pc;
+    margin-left: -3px;
+    width: 106%;
+    height: 11pc;
+}
+.CHOOSE{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.CHOOSE h1 {
+    font-size: 19px;
+    margin-left: -28px;
+}
+#slider {
+    overflow: hidden;
+    width: 687px;
+    margin-top: -57px;
+    background-color: #F3F3F3;
+    margin-left: 12px;
+    height: 246px;
+}
+  .swiper {
+    width: 102%;
+    height: 100%;
+}
+.company{
+    width: 149%;
+    padding-bottom: 21px;
+}
+.company h1 {
+    margin-left: 35px;
+    font-size: 21px;
+}
+.company img {
+    margin-left: 17px;
+    width: 67%;
+    margin-top: -20px;
+}
+.best img {
+    margin-top: 0pc;
+    margin-left: 1pc;
+    width: 100%;
+}
+
+.mat {
+    padding: 15px;
+    font-size: 17px;
+    width: 294px;
+    margin-left: 79px;
+}
+.icon {
+    padding: -29px;
+    font-size: 18px;
+    width: 38px;
+    margin-top: -47px;
+    margin-left: 20pc;
+}
+.always h1 {
+    margin-left: 39px;
+    margin-top: 25px;
+    font-size: 21px;
+    padding-bottom: -7px;
+    width: 154%;
+}
+.academic h1 {
+    font-size: 20px;
+    margin-left: 44px;
+    margin-top: 23px;
+}
+.latest h1 {
+    margin-top: 32px;
+    font-size: 19px;
+    margin-left: 49px;
+}
+.rest {
+    margin-left: -53px;
+    margin-right: -106px;
+}
+  .rest img {
+    width: 78%;
+    margin-left: 132px;
+}
+.rest p {
+    font-size: 16px;
+    margin-top: -3px;
+    margin-left: 121px;
+}
+.swiper-slide img {
+    display: block;
+    width: 95%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .god {
+    width: 100%;
+}
+.god h1 {
+    font-size: 22px;
+}
+.god p {
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+}
+.god img {
+    width: 53%;
+    margin-left: 18px;
+    margin-right: -98px;
+}
+.smile {
+    background-color: #042444;
+    height: 129pc;
+    width: 1075px;
+    padding-top: 77px;
+    margin-left: -24px;
+    line-height: 39px;
+    margin-top: -74px;
+    padding-bottom: 48%;
+}
+.iner {
+    line-height: 23px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.row {
+    margin-right: 16px;
+    margin-left: -2pc;
+    padding-left: 100px;
+}
+.column {
+    float: left;
+    width: 52%;
+    color: #2EA3F2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: -1pc;
+}
+.column a {
+    color: grey;
+    font-size: 16px;
+    text-decoration: none;
+}
+.fot {
+    margin-top: -371px;
+margin-left: 103px;
+margin-right: -35%;
+}
+.fot h1 {
+    margin-left: -74px;
+    font-size: 24px;
+}
+.email {
+    font-size: 14px;
+    padding: 10px 27px;
+    background-color: #07294b;
+    border: none;
+    width: 50%;
+    margin-left: -72px;
+}
+.subcribe {
+    background-color: #008def;
+    color: white;
+    margin-top: 18px;
+    padding: 10px 14px;
+    margin-left: -78px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.contact {
+    width: 77%;
+    margin-top: 32px;
+    margin-left: 3pc;
+}
+.contact h1 {
+    color: white;
+    font-size: 21px;
+}
+.contact {
+    width: 76%;
+    line-height: 29px;
+}
+.contact p {
+    font-size: 17px;
+}
+.swiper-button-next, .swiper-button-prev{
+    display: none;
+}
+  }
